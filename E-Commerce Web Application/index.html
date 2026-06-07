@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Luxora</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header>
+    <div class="logo">Luxora</div>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search products...">
+    </div>
+
+    <div class="cart">
+      🛒 <span id="cartCount">0</span>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Future Shopping Experience</h1>
+      <p>Explore modern products with futuristic design.</p>
+      <button>Shop Now</button>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="filters">
+    <button class="filter-btn active" data-category="all">All</button>
+    <button class="filter-btn" data-category="electronics">Electronics</button>
+    <button class="filter-btn" data-category="fashion">Fashion</button>
+    <button class="filter-btn" data-category="shoes">Shoes</button>
+  </section>
+
+  <!-- Products -->
+  <section class="products" id="productContainer">
+
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 NeoShop | Modern E-Commerce Website</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
