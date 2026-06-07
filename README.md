@@ -38,7 +38,7 @@ Run index.html using Live Server
 
 After enabling GitHub Pages:
 
-https://yourusername.github.io/portfolio/
+https://rohit-codes26.github.io/Thiranex/portfolio/index.html
 📸 Project Preview
 
 This project provides a modern portfolio experience with futuristic neon effects, stylish sections, smooth animations, responsive layouts, and a professional developer-themed interface.
@@ -97,7 +97,7 @@ Run index.html using Live Server
 
 After enabling GitHub Pages:
 
-https://yourusername.github.io/neotask/
+https://rohit-codes26.github.io/Thiranex/Task Management Application/index.html
 📸 Project Preview
 
 This project provides a modern task management experience with futuristic neon effects, responsive layouts, glassmorphism dashboard cards, animated UI components, and a clean productivity-focused interface for organizing daily tasks.
@@ -169,7 +169,7 @@ Open index.html using Live Server
 
 After enabling GitHub Pages:
 
-https://yourusername.github.io/nexcart/
+https://rohit-codes26.github.io/Thiranex/E-Commerce Web Application/index.html
 📸 Project Preview
 
 This project provides a modern online shopping experience with futuristic neon effects, stylish product cards, smooth animations, responsive layouts, interactive shopping features, and a professional e-commerce themed interface.
