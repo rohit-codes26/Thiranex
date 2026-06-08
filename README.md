@@ -195,3 +195,80 @@ Backend Database Integration
 
 Developed by Rohit Meshram
 B.Tech Computer Science & Engineering Student
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Blog Platform
+
+A modern and responsive Blog Platform built using HTML, CSS, and JavaScript. This project features a futuristic glassmorphism UI, animated blog cards, responsive layouts, blog publishing functionality, live search, interactive comment system, like feature, and an attractive modern blogging experience design.
+
+✨ Features
+
+Responsive Blog Layout
+Modern Glassmorphism UI
+Animated Gradient Background
+Responsive Navigation Bar
+Create Blog Posts
+Interactive Comment System
+Like Button Functionality ❤️
+Live Blog Search 🔍
+Dynamic Blog Cards
+Smooth Hover Animations
+Mobile Friendly Design
+Futuristic Neon Theme
+Modern Blog Showcase
+Local Storage Support
+Interactive Buttons
+Clean User Interface
+
+🛠️ Technologies Used
+
+HTML5
+CSS3
+JavaScript ES6
+Local Storage API
+Flexbox
+CSS Grid
+Glassmorphism Design
+
+📂 Project Structure
+NeoBlog/
+│
+├── index.html
+├── style.css
+└── script.js
+🚀 How to Run
+
+Download or clone the repository
+Open project folder in VS Code
+Open index.html using Live Server
+
+🌐 Live Demo
+
+After enabling GitHub Pages:
+
+https://rohit-codes26.github.io/Thiranex/blog-platform-with-comments/index.html
+📸 Project Preview
+
+This project provides a modern blogging experience with futuristic neon effects, stylish blog cards, smooth animations, responsive layouts, interactive comments, like functionality, live blog search, and a professional blogging themed interface.
+
+📌 Future Improvements
+
+Dark & Light Theme Toggle
+User Authentication System
+Firebase Database Integration
+Rich Text Blog Editor
+Image Upload Feature
+Blog Categories & Tags
+Admin Dashboard
+AI Blog Generator
+Voice Search Feature
+Advanced Comment System
+User Profile Section
+Blog Bookmark Feature
+3D Card Hover Effects
+Backend Database Integration
+
+👨‍💻 Developer
+
+Developed by Rohit Meshram
+B.Tech Computer Science & Engineering Student
